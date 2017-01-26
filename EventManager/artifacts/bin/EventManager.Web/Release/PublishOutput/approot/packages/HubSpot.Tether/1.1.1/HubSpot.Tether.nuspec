@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>HubSpot.Tether</id>
+    <version>1.1.1</version>
+    <title>Tether</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <authors>HubSpot,Inc.</authors>
+    <owners>HubSpot,Inc.</owners>
+    <licenseUrl>https://github.com/HubSpot/tether/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/HubSpot/tether</projectUrl>
+    <description>Tether is a JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page.
+
+It aims to be the canonical implementation of this type of positioning, such that you can build products, not positioning libraries.
+
+Take a look at the documentation for a more detailed explanation of why you should star it now to remember it for your next project.</description>
+    <summary>Tether is a JavaScript library for efficiently making an absolutely positioned element stay next to another element on the page.</summary>
+    <copyright>HubSpot, Inc.</copyright>
+  </metadata>
+</package>

@@ -1,0 +1,9 @@
+{
+
+  "AppSettings": {
+    "SiteEmailAddress": "rosstek2000@hotmal.com"
+  },
+  "Data": {
+    "EventManagerConnnectionDev": "Server=CMDBVDB;Database=ALPAEventsDev;User ID=ALPAEvents;Password=Aevt**gen;MultipleActiveResultSets=true"
+  }
+}
